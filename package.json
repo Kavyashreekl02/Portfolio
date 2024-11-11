@@ -2,7 +2,7 @@
   "name": "kavya-portfolio",
   "version": "0.1.0",
   "description": "Kavya's personal portfolio showcasing projects and skills.",
-  "homepage": "https://kavyashreekl02.github.io",
+  "homepage": "https://Kavyashreekl02.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
