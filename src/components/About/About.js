@@ -11,7 +11,7 @@ import {
   ResumeButton,
   ProfileImage
 } from './AboutStyledComponent';
-import ProfileImg from '../Image/Profile.JPG'; // Correct path to your image
+import ProfileImg from '../Image/New_Profile.JPG'; // Correct path to your image
 
 const About = () => {
   return (
