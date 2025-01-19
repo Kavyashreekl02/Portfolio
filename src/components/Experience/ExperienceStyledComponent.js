@@ -87,13 +87,13 @@ export const ExperienceCard = styled.div`
 
   h3 {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: #fff;
   }
 
   p {
     margin: 5px 0;
-    color: #fff;
+    color: #a445ed;
     font-weight: bold;
   }
 

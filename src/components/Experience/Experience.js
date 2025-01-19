@@ -25,14 +25,13 @@ const Experience = () => {
         
         {/* Experience card on the right */}
         <ExperienceCard>
-          <h3>ML & Software Development Intern</h3>
-          <p>ContentEase AI</p>
-          <p>January 2023 - Present</p>
+          <h3>ML and Software Development Intern</h3>
+          <p>CONTENTEASE AI</p>
+          <h4>January 2024 - December 2024</h4>
           <InnerExperienceCardContainer>
             {/* First Inner Experience Card */}
             <InnerExperienceCard>
             <InnerExperienceCardTitle style={{ color: '#a445ed' }}>
-              Design Engine
             </InnerExperienceCardTitle>
 
               <ExperienceDetails>
@@ -52,14 +51,10 @@ const Experience = () => {
             {/* Second Inner Experience Card */}
             <InnerExperienceCard>
             <InnerExperienceCardTitle style={{ color: '#a445ed' }}>
-              ImageMop
             </InnerExperienceCardTitle>
 
               <ExperienceDetails>
-              <span>Frontend:</span> Developed with Next.js, utilizing hooks for state management and Axios for API calls. Integrated Font Awesome icons for an enhanced user experience in managing image data.
-              <br></br>
-              <br></br>
-              <span>Backend:</span> Built using NestJS and connected to a PostgreSQL database via TypeORM, employing DTOs for data validation and robust error handling.
+               Developed a tool with Next.js & NestJS, utilizing hooks for state management and Axios for API calls and connected to a PostgreSQL database via TypeORM.
               </ExperienceDetails>
               <SkillsContainer>
                 <SkillItem>NextJs</SkillItem>
@@ -71,6 +66,22 @@ const Experience = () => {
             </InnerExperienceCard>
           </InnerExperienceCardContainer>
         </ExperienceCard>
+
+
+        <ExperienceCard>
+        <h3>Software Developer I</h3>
+        <p>INHABITR</p>
+        <h4>January 2025 - Present</h4>
+        <InnerExperienceCardContainer>
+          <InnerExperienceCard>
+            <ExperienceDetails>
+            Working as Software Developer I at Inhabitr since January 2025, contributing to the development and optimization of innovative software solutions.
+            </ExperienceDetails>
+          </InnerExperienceCard>
+        </InnerExperienceCardContainer>
+      </ExperienceCard>
+
+        
       </TimelineContainer>
     </ExperienceContainer>
   );

@@ -19,7 +19,7 @@ const About = () => {
       <ContentSection>
         <Greeting>Hi, I am</Greeting>
         <Name>Kavyashree K L</Name> {/* Replace with your name */}
-        <SubTitle>I am a <span>Software Engineer</span></SubTitle>
+        <SubTitle>I am a <span>Software Developer</span></SubTitle>
         <Description>
         I am a motivated and adaptable individual, eager to embrace new challenges. Committed to continuous learning and delivering high-quality results, I am prepared to contribute meaningfully and grow within a professional setting.
         </Description>
