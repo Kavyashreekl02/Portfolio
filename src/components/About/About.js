@@ -23,7 +23,7 @@ const About = () => {
         <Description>
         I am a motivated and adaptable individual, eager to embrace new challenges. Committed to continuous learning and delivering high-quality results, I am prepared to contribute meaningfully and grow within a professional setting.
         </Description>
-        <ResumeButton href="https://drive.google.com/file/d/1n_jhNO40_JdFLrGe4AonnavhtGp-GSre/view?usp=drive_link" target="_blank">
+        <ResumeButton href="https://drive.google.com/file/d/1zYp0jH3-5ffF_cdJmRy47kZ3DEjrNpMM/view?usp=sharing" target="_blank">
           Check Resume
         </ResumeButton>
       </ContentSection>
