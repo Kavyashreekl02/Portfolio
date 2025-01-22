@@ -25,7 +25,7 @@ const Experience = () => {
         
         {/* Experience card on the right */}
         <ExperienceCard>
-          <h3>ML and Software Development Intern</h3>
+          <h3>Software Engineer Intern</h3>
           <p>CONTENTEASE AI</p>
           <h4>January 2024 - December 2024</h4>
           <InnerExperienceCardContainer>
