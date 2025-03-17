@@ -35,16 +35,18 @@ const Experience = () => {
             </InnerExperienceCardTitle>
 
               <ExperienceDetails>
-              Developed object detection and instance segmentation models using YOLOv8 and Llava for the AI-driven Design Engine project, including dataset annotation with Roboflow, and conducted model training and testing on Google Colab with performance monitoring via Weights & Biases.
+              Developed object detection and instance segmentation models using YOLOv8 for the AI-driven Design Engine project, including dataset annotation with Roboflow, and conducted model training and testing on Google Colab with performance monitoring via Weights & Biases.
               </ExperienceDetails>
               <SkillsContainer>
+                <SkillItem>Python</SkillItem>
                 <SkillItem>Object Detection</SkillItem>
                 <SkillItem>Instance Segmentation</SkillItem>
                 <SkillItem>YOLOv8</SkillItem>
-                <SkillItem>Llava</SkillItem>
-                <SkillItem>Colab</SkillItem>
-                <SkillItem>Model Evaluation</SkillItem>
-                <SkillItem>Problem solving</SkillItem>
+                <SkillItem>Roboflow</SkillItem>
+                <SkillItem>Google Colab</SkillItem>
+                <SkillItem>Weights & Biases</SkillItem>
+                <SkillItem>Model Evaluation & Optimization</SkillItem>
+                <SkillItem>Performance Testing</SkillItem>
               </SkillsContainer>
             </InnerExperienceCard>
 

@@ -18,6 +18,8 @@ const Skills = () => {
             <SkillItem>JavaScript</SkillItem>
             <SkillItem>React JS</SkillItem>
             <SkillItem>Next JS</SkillItem>
+            <SkillItem>Streamlit</SkillItem>
+            <SkillItem>Flask</SkillItem>
           </SkillList>
         </SkillCard>
 
@@ -28,6 +30,7 @@ const Skills = () => {
             <SkillItem>Node JS</SkillItem>
             <SkillItem>Express JS</SkillItem>
             <SkillItem>Python</SkillItem>
+            <SkillItem>SQL</SkillItem>
             <SkillItem>MySQL</SkillItem>
             <SkillItem>PostgreSQL</SkillItem>
             <SkillItem>Mongo DB</SkillItem>
@@ -36,9 +39,12 @@ const Skills = () => {
 
         {/* Machine Learning Skills */}
         <SkillCard>
-          <SkillCategoryTitle>Machine Learning</SkillCategoryTitle>
+          <SkillCategoryTitle>Machine Learning & Deep Learning</SkillCategoryTitle>
           <SkillList>
             <SkillItem>Python</SkillItem>
+            <SkillItem>Object Detection</SkillItem>
+            <SkillItem>Instance Segmentation</SkillItem>
+            <SkillItem>Image Classification</SkillItem>
             <SkillItem>Jupyter</SkillItem>
             <SkillItem>Google Colab</SkillItem>
           </SkillList>
@@ -48,10 +54,13 @@ const Skills = () => {
         <SkillCard>
           <SkillCategoryTitle>Others</SkillCategoryTitle>
           <SkillList>
+            <SkillItem>MS Excel</SkillItem>
+            <SkillItem>Power BI</SkillItem>
+            <SkillItem>Postman</SkillItem>
+            <SkillItem>JMeter</SkillItem>
             <SkillItem>VS Code</SkillItem>
             <SkillItem>Git</SkillItem>
             <SkillItem>GitHub</SkillItem>
-            <SkillItem>Postman</SkillItem>
           </SkillList>
         </SkillCard>
       </SkillWrapper>
