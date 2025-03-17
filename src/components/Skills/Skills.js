@@ -43,7 +43,7 @@ const Skills = () => {
           <SkillList>
             <SkillItem>Python</SkillItem>
             <SkillItem>Object Detection</SkillItem>
-            <SkillItem>Instance Segmentation</SkillItem>
+            <SkillItem>Segmentation</SkillItem>
             <SkillItem>Image Classification</SkillItem>
             <SkillItem>Jupyter</SkillItem>
             <SkillItem>Google Colab</SkillItem>

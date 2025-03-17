@@ -40,7 +40,7 @@ const Experience = () => {
               <SkillsContainer>
                 <SkillItem>Python</SkillItem>
                 <SkillItem>Object Detection</SkillItem>
-                <SkillItem>Instance Segmentation</SkillItem>
+                <SkillItem>Segmentation</SkillItem>
                 <SkillItem>YOLOv8</SkillItem>
                 <SkillItem>Roboflow</SkillItem>
                 <SkillItem>Google Colab</SkillItem>
