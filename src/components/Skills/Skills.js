@@ -39,7 +39,7 @@ const Skills = () => {
 
         {/* Machine Learning Skills */}
         <SkillCard>
-          <SkillCategoryTitle>Machine Learning & Deep Learning</SkillCategoryTitle>
+          <SkillCategoryTitle>AI & ML</SkillCategoryTitle>
           <SkillList>
             <SkillItem>Python</SkillItem>
             <SkillItem>Object Detection</SkillItem>
